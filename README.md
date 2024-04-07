@@ -13,7 +13,9 @@ How to Use
 Contributing
 License
 # Introduction
-SQL injection is a common technique used by attackers to manipulate SQL queries executed by web applications. This tutorial walks you through the basics of SQL injection, its various types, prevention strategies, and interactive exercises to reinforce learning.
+SQL injection is a common technique used by attackers to manipulate SQL queries executed by web applications.
+This tutorial walks you through the basics of SQL injection, its various types, prevention strategies, 
+and interactive exercises to reinforce learning.
 
 # Sections
 What is SQL Injection?: Understand the concept of SQL injection and its impact.
@@ -25,11 +27,29 @@ Conclusion: Summarize the key points learned and emphasize the importance of pri
 # How to Use
 To run the tutorial locally, follow these steps:
 
-Clone the repository to your local machine.
-Ensure you have Python installed.
-Navigate to the project directory.
-Run the SQLInjection101.py script using Python3.
-Follow the instructions and interact with the tutorial.
+1-Clone the repository to your local machine.
+```
+git clone https://github.com/Tam-sec/SQLInjection101.git
+
+```
+
+2- Ensure you have Python installed.
+
+3- Navigate to the project directory.
+
+4- Modify the permissions of the file named SQLInjection101.py
+```
+chmod +x SQLInjection101.py
+
+```
+
+5- Run the SQLInjection101.py script using Python3.
+```
+python3 SQLInjection101.py
+
+```
+
+6- Follow the instructions and interact with the tutorial.
 ## Contributing
 Contributions to improve this tutorial are welcome! If you have suggestions for additional content, bug fixes, or enhancements, please submit a pull request. For major changes, please open an issue first to discuss the proposed changes.
 
